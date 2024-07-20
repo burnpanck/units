@@ -287,9 +287,10 @@ template<std::size_t N>
 struct std::hash<mp_units::fixed_u16string<N>> : std::hash<std::u16string_view> {};
 template<std::size_t N>
 struct std::hash<mp_units::fixed_u32string<N>> : std::hash<std::u32string_view> {};
+/*
 template<std::size_t N>
 struct std::hash<mp_units::fixed_wstring<N>> : std::hash<std::wstring_view> {};
-
+*/
 #if MP_UNITS_HOSTED
 // formatting support
 template<typename CharT, std::size_t N>
