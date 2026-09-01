@@ -32,13 +32,13 @@ wouldn't be possible without the dedication and hard work of our amazing communi
 
 ## Statistics
 
-- **Total Contributors**: 37
-- **Total Contributions**: 4275
+- **Total Contributors**: 41
+- **Total Contributions**: 5102
 - **Major Contributors** (50+ contributions): 0
 - **Regular Contributors** (10-49 contributions): 10
-- **Occasional Contributors** (1-9 contributions): 24
+- **Occasional Contributors** (1-9 contributions): 27
 
-_Last updated: 2025-12-10_
+_Last updated: 2026-09-01_
 
 
 ### Major Contributors
@@ -52,13 +52,13 @@ _50+ contributions_
 
 _10-49 contributions_
 
+- **[burnpanck](https://github.com/burnpanck)** (49 contributions)
 - **[czjhoppe](https://github.com/czjhoppe)** (48 contributions)
-- **[burnpanck](https://github.com/burnpanck)** (48 contributions)
 - **[rbrugo](https://github.com/rbrugo)** (44 contributions)
 - **[yasamoka](https://github.com/yasamoka)** (20 contributions)
 - **[hofbi](https://github.com/hofbi)** (19 contributions)
+- **[rothmichaels](https://github.com/rothmichaels)** (19 contributions)
 - **[Twon](https://github.com/Twon)** (17 contributions)
-- **[rothmichaels](https://github.com/rothmichaels)** (17 contributions)
 - **[kwikius](https://github.com/kwikius)** (16 contributions)
 - **[RalphSteinhagen](https://github.com/RalphSteinhagen)** (14 contributions)
 - **[mikeford1](https://github.com/mikeford1)** (13 contributions)
@@ -69,19 +69,22 @@ _10-49 contributions_
 _Everyone who has contributed to mp-units_
 
 - **[fdischner](https://github.com/fdischner)**
-- **[NAThompson](https://github.com/NAThompson)**
 - **[HazardyKnusperkeks](https://github.com/HazardyKnusperkeks)**
+- **[NAThompson](https://github.com/NAThompson)**
 - **[nebkat](https://github.com/nebkat)**
 - **[jansende](https://github.com/jansende)**
+- **[kammce](https://github.com/kammce)**
 - **[jvocht](https://github.com/jvocht)**
 - **[uilianries](https://github.com/uilianries)**
 - **[sohamroy19](https://github.com/sohamroy19)**
+- **[alejandro-alvarez-sonarsource](https://github.com/alejandro-alvarez-sonarsource)**
 - **[alex-tee](https://github.com/alex-tee)**
 - **[go2sh](https://github.com/go2sh)**
 - **[dkavolis](https://github.com/dkavolis)**
 - **[dbraeckelmann](https://github.com/dbraeckelmann)**
 - **[tobylorenz](https://github.com/tobylorenz)**
 - **[TheCoconutChef](https://github.com/TheCoconutChef)**
+- **[reneparis](https://github.com/reneparis)**
 - **[mkrupcale](https://github.com/mkrupcale)**
 - **[komputerwiz](https://github.com/komputerwiz)**
 - **[KangarooKoala](https://github.com/KangarooKoala)**
